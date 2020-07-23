@@ -1,4 +1,4 @@
-// Protokoll für das Teammeeting für Mahr EDV
+// Protokoll für das Teammeeting für Mahr EDV GmbH
 
 var PQ1 = undefined;
 var PQ2 = undefined;
@@ -145,63 +145,6 @@ bootbox.alert({
     }
 })
 
-
-/*
-const PQ1 = "•Willkommen bei Mahr EDV: Neue Teammitglieder:"
-const PQ2 = prompt("•Teamerfolg und Bonus:")
-const PQ3 = prompt("•Neues aus den Teams: Aktuelle Neukunden:")
-const PQ4 = prompt("•Neues aus den Teams: Status Los Wochos (insbes. SMBv1, LDAP)")
-const PQ5 = prompt("•Neues aus den Teams: Los Wochos „Wer hat den schönsten Kabelsalat“")
-const PQ6 = prompt("•Geplante Erweiterung der Standorte 2020")
-const PQ7 = prompt("•Info Better Tomorrow")
-const PQ8 = prompt("•Schulungsplan")
-const PQ9 = prompt("•Prozess – KuDo Export")
-const PQ10 = prompt("•Neues aus Social Media- Wettbewerbe & Auszeichnungen")
-const PQ11 = prompt("•Fragen/ Ideen/ Kritik/ Lob")
-const main = document.querySelector('main');
-
-
-
-////// Output after Answering the Questions!
-
-document.querySelector('main').innerHTML = "<p> •Willkommen bei Mahr EDV: Neue Teammitglieder:</p>"
-document.querySelector('main').innerHTML += PQ1 
-document.querySelector('main').innerHTML += "<p> •Teamerfolg und Bonus: </p>"
-document.querySelector('main').innerHTML += PQ2
-document.querySelector('main').innerHTML += "<p> •Neues aus den Teams: Aktuelle Neukunden: </p>"
-document.querySelector('main').innerHTML += PQ3
-document.querySelector('main').innerHTML += "<p> •Neues aus den Teams: Status Los Wochos (insbes. SMBv1, LDAP) </p>"
-document.querySelector('main').innerHTML += PQ4
-document.querySelector('main').innerHTML += "<p> •Neues aus den Teams: Los Wochos „Wer hat den schönsten Kabelsalat“ </p>"
-document.querySelector('main').innerHTML += PQ5
-document.querySelector('main').innerHTML += "<p> •Geplante Erweiterung der Standorte 2020 </p>"
-document.querySelector('main').innerHTML += PQ6
-document.querySelector('main').innerHTML += "<p> •Info Better Tomorrow </p>"
-document.querySelector('main').innerHTML += PQ7
-document.querySelector('main').innerHTML += "<p> •Schulungsplan </p>"
-document.querySelector('main').innerHTML += PQ8
-document.querySelector('main').innerHTML += "<p> •Prozess – KuDo Export </p>"
-document.querySelector('main').innerHTML += PQ9
-document.querySelector('main').innerHTML += "<p> •Neues aus Social Media- Wettbewerbe & Auszeichnungen </p>"
-document.querySelector('main').innerHTML += PQ10
-document.querySelector('main').innerHTML += "<p> •Fragen/ Ideen/ Kritik/ Lob </p>"
-document.querySelector('main').innerHTML += PQ11
-
-
-
-/*
-function meetingsProtokoll() {
-    const PQ1 = prompt("•Willkommen bei Mahr EDV: Neue Teammitglieder:")
-    const main = document.querySelector('main');
-    document.querySelector('main').innerHTML = "<p> •Willkommen bei Mahr EDV: Neue Teammitglieder:</p>"
-    document.querySelector('main').innerHTML += PQ1 
-    const PQ2 = prompt("•Teamerfolg und Bonus:");
-    document.querySelector('main').innerHTML = "<p> •Teamerfolg und Bonus::</p>"
-    document.querySelector('main').innerHTML += PQ2
-}
-
-meetingsProtokoll();
-*/
 
 
 
