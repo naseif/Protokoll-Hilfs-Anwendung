@@ -1,4 +1,4 @@
-# protokoll.github.io
+#  Protokoll-Hilfs-Anwendung 
 You can visit this <a href="https://naseif.github.io/protokoll.github.io/">Page</a> to see the Project
 
 This is my first project with JavaScript and HTML. It was made during my internship at Mahr EDV GmbH to help the support team of the managment.
